@@ -1,7 +1,7 @@
 [project]
-name = "research-agent"
+name = "cogni-research"
 version = "0.1.0"
-description = "Agentic research assistant with MCP integration"
+description = "CogniResearch - AI-powered research assistant with MCP integration"
 requires-python = ">=3.11"
 dependencies = [
     "langgraph>=0.2.0",

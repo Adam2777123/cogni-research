@@ -1,4 +1,4 @@
-# Research Agent
+# CogniResearch
 
 An AI-powered research assistant that autonomously researches topics, synthesizes information, and generates comprehensive reports. Built with LangGraph for workflow orchestration, Claude for reasoning, and MCP for tool integration.
 

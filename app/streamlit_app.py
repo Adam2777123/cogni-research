@@ -10,12 +10,12 @@ from src.utils.config import get_settings
 settings = get_settings()
 
 st.set_page_config(
-    page_title="Research Assistant",
+    page_title="CogniResearch",
     page_icon=None,
     layout="wide"
 )
 
-st.title("AI Research Assistant")
+st.title("CogniResearch")
 st.markdown("*Powered by Claude + MCP + LangGraph*")
 
 # Sidebar for settings
