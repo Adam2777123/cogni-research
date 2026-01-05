@@ -1,0 +1,25 @@
+{
+  "servers": {
+    "web-search": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.web_search_server"],
+      "description": "Web search server using Tavily API"
+    },
+    "memory": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.memory_server"],
+      "description": "Memory server using ChromaDB"
+    },
+    "database": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.database_server"],
+      "description": "Database server for SQLite queries"
+    },
+    "filesystem": {
+      "command": "python",
+      "args": ["-m", "src.mcp_servers.filesystem_server"],
+      "description": "Filesystem operations server"
+    }
+  }
+}
+
